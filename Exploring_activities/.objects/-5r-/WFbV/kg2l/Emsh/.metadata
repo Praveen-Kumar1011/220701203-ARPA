@@ -1,0 +1,14 @@
+﻿{
+  "Name": "editable text Enter you…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "EmshRjdPH0eBWo-C1-Yc7A",
+  "Reference": "UviM4UNQWUWoHbeSJ-1VVg/EmshRjdPH0eBWo-C1-Yc7A",
+  "ParentRef": "UviM4UNQWUWoHbeSJ-1VVg/kg2lXoLaikiKI7KWqj7Yeg",
+  "Created": "2025-07-31T05:57:32.214476Z",
+  "Updated": "2025-07-31T05:57:32.214476Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

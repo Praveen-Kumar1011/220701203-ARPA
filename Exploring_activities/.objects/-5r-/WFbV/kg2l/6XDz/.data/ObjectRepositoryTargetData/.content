@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IIAlOtt_GEmRV7AkFu5-sg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" DesignTimeRectangle="1522, 167, 26, 26" DesignTimeScaleFactor="1.25" ElementType="Icon" FullSelectorArgument="&lt;ctrl name='New tab' role='document' /&gt;&lt;ctrl idx='2' name='Search' role='grouping' /&gt;&lt;ctrl name='Search' role='push button' /&gt;&lt;ctrl role='graphic' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New tab' role='document' /&gt;&lt;ctrl name='Search' role='grouping' /&gt;&lt;ctrl name='Search' role='push button' /&gt;&lt;ctrl role='graphic' automationid='' /&gt;" Guid="60d6e1ff-a47c-4c33-8753-aba72ab63ac7" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='New tab - Personal - Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="041a94bc562f016a47de29adbbc5a2d7.png" xmlns="">06ECxxzOgOUO3qwoBbc_5Pw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
